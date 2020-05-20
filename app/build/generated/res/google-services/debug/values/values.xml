@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">383633315280-i81d843bc22rii7ia2g5t2qrt2gmsm15.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://storedz-b1431.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">383633315280</string>
+    <string name="google_api_key" translatable="false">AIzaSyA-AVWa_ic-M0__ypNcHD4BcFa-JP484mY</string>
+    <string name="google_app_id" translatable="false">1:383633315280:android:f52fc2ed28ba43b8b595d5</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA-AVWa_ic-M0__ypNcHD4BcFa-JP484mY</string>
+    <string name="google_storage_bucket" translatable="false">storedz-b1431.appspot.com</string>
+    <string name="project_id" translatable="false">storedz-b1431</string>
+</resources>

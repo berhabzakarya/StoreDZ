@@ -1,0 +1,4 @@
+#Wed May 20 08:50:27 WAT 2020
+base.0=C\:\\Users\\Zakarya\\AndroidStudioProject\\StoreDZ\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+path.0=classes.dex
+renamed.0=classes.dex

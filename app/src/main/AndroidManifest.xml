@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.berhabzakarya.storedz">
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name="com.theartofdev.edmodo.cropper.CropImageActivity"
+            android:theme="@style/Base.Theme.AppCompat" />
+        <activity android:name=".Buyers.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Buyers.LoginActivity" />
+        <activity android:name=".Buyers.RegisterActivity" />
+        <activity android:name=".Seller.SellerAddNewProductActivity" />
+        <activity android:name=".Seller.SellerProductCategoryActivity" />
+        <activity
+            android:name=".Buyers.HomeActivity"
+            android:label="@string/title_activity_home"
+            android:theme="@style/AppTheme" />
+        <activity android:name=".Buyers.SettingsActivity" />
+        <activity android:name=".Buyers.ProductDetailsActivity" />
+        <activity android:name=".Buyers.CartActivity" />
+        <activity android:name=".Buyers.ConfirmFinalOrderActivity" />
+        <activity android:name=".Admin.AdminAddNewOrderActivity" />
+        <activity android:name=".Admin.AdminUserProductActivity" />
+        <activity android:name=".Buyers.SearchProductsActivity" />
+        <activity android:name=".Admin.AdminMaintainActivity" />
+        <activity android:name=".Buyers.ResetPasswordActivity" />
+        <activity
+            android:name=".Seller.SellerRegistrationActivity"
+            android:theme="@style/AppThemeSeller" />
+        <activity
+            android:name=".Seller.SellerLoginActivity"
+            android:theme="@style/AppThemeSeller" />
+        <activity
+            android:name=".Seller.HomeSellerActivity"
+            android:label="@string/title_activity_home_seller" />
+        <activity android:name=".Admin.AdminHomeActivity" />
+        <activity android:name=".Admin.AdminApproveProductActivity" />
+        <activity android:name=".Buyers.SetQuestionActivity"></activity>
+    </application>
+
+</manifest>

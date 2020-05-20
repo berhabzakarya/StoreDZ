@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Seller.HomeSellerActivity">
+
+    <RelativeLayout
+        android:id="@+id/relative_layout_home_seller"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/colorPrimaryDark">
+        <TextView
+            android:id="@+id/text_view_home_seller"
+            android:text="@string/my_all_products"
+            android:layout_width="match_parent"
+            android:gravity="center"
+            android:textColor="@android:color/white"
+            android:layout_marginTop="8dp"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:layout_height="wrap_content" />
+    </RelativeLayout>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycler_view_home_seller"
+        android:layout_below="@id/relative_layout_home_seller"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/navigation"
+        android:layout_width="wrap_content"
+        app:itemTextColor="@android:color/black"
+        android:layout_height="wrap_content"
+        app:itemIconTint="@color/colorPrimaryDark"
+        android:layout_alignParentBottom="true"
+        android:background="?android:attr/windowBackground"
+        app:menu="@menu/navigation" />
+
+</RelativeLayout>

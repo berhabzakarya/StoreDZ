@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "383633315280",
+    "firebase_url": "https://storedz-b1431.firebaseio.com",
+    "project_id": "storedz-b1431",
+    "storage_bucket": "storedz-b1431.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383633315280:android:f52fc2ed28ba43b8b595d5",
+        "android_client_info": {
+          "package_name": "com.berhabzakarya.storedz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383633315280-n0e26ok8vt0i986sbdgn4llbtlvaai7p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.berhabzakarya.storedz",
+            "certificate_hash": "e9e8f98e5016bc37c4e18531eab6a9a5ec24cc9f"
+          }
+        },
+        {
+          "client_id": "383633315280-i81d843bc22rii7ia2g5t2qrt2gmsm15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-AVWa_ic-M0__ypNcHD4BcFa-JP484mY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383633315280-i81d843bc22rii7ia2g5t2qrt2gmsm15.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -13,19 +13,30 @@ Online store application android .
 ### firebase Authentification.
 # Library
 [Elegant Number Button](https://github.com/ashik94vc/ElegantNumberButton)
-    ### Widget which acts as a number counter which changes its number on +/- press
-[Material Design components ](https://github.com/rey5137/material)
-    ### Open Source Android library that back-port Material Design components to pre-Lolipop Android.
-[Paper storage memory](https://github.com/pilgr/Paper)
-    ### Paper is a fast NoSQL-like storage for Java/Kotlin objects on Android with automatic schema migration support.
-[Firebase UI](https://github.com/firebase/FirebaseUI-Android)
-    ### Optimized UI components for Firebase 
-[Picasso](https://github.com/square/picasso)
-    ### https://github.com/square/picasso
-[Image Cropper](https://github.com/ArthurHub/Android-Image-Cropper)
-    ### Powerful (Zoom, Rotation, Multi-Source), customizable (Shape, Limits, Style), optimized (Async, Sampling, Matrix) and simple image cropping library for Android.
-![Android Image Cropper](https://github.com/ArthurHub/Android-Image-Cropper/blob/master/art/demo.gif?raw=true)
 
+    ### Widget which acts as a number counter which changes its number on +/- press
+    
+[Material Design components ](https://github.com/rey5137/material)
+
+    ### Open Source Android library that back-port Material Design components to pre-Lolipop Android.
+    
+[Paper storage memory](https://github.com/pilgr/Paper)
+
+    ### Paper is a fast NoSQL-like storage for Java/Kotlin objects on Android with automatic schema migration support.
+    
+[Firebase UI](https://github.com/firebase/FirebaseUI-Android)
+
+    ### Optimized UI components for Firebase 
+    
+[Picasso](https://github.com/square/picasso)
+
+    ### https://github.com/square/picasso
+    
+[Image Cropper](https://github.com/ArthurHub/Android-Image-Cropper)
+
+    ### Powerful (Zoom, Rotation, Multi-Source), customizable (Shape, Limits, Style), optimized (Async, Sampling, Matrix) and simple image cropping library for Android.
+    
+![Android Image Cropper](https://github.com/ArthurHub/Android-Image-Cropper/blob/master/art/demo.gif?raw=true)
 
 
 ## Built With

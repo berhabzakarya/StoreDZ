@@ -27,7 +27,6 @@ public class ResetPasswordActivity extends AppCompatActivity {
     private Button verify, update;
     private DatabaseReference databaseReference;
     private ProgressDialog progressDialog;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

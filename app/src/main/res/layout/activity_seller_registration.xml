@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#b8eeeeee"
     tools:context=".Seller.SellerRegistrationActivity">
 
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
 
     <ImageView
         android:id="@+id/img_seller_login"
@@ -92,7 +95,8 @@
         android:id="@+id/link_login_seller"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
+        android:layout_below="@id/register_seller"
+        android:layout_marginTop="8dp"
         android:layout_marginLeft="16dp"
         android:layout_marginRight="16dp"
         android:background="@android:color/holo_blue_dark"
@@ -100,3 +104,4 @@
         android:text="@string/already_have_an_account_login"
         android:textColor="@android:color/white" />
 </RelativeLayout>
+</ScrollView>

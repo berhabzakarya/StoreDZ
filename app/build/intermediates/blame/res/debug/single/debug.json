@@ -1324,12 +1324,12 @@
         "source": "C:\\Users\\Zakarya\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.2.0-beta01.aar\\f3d3688daea5cce73e97a94b487ddde0\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
     },
     {
-        "merged": "C:\\Users\\Zakarya\\AndroidStudioProject\\StoreDZ\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_navigation_item_text_color.xml.flat",
-        "source": "C:\\Users\\Zakarya\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.2.0-alpha06.aar\\7428bb65512d8a3ad3ff141f257ddc83\\res\\color\\mtrl_navigation_item_text_color.xml"
-    },
-    {
         "merged": "C:\\Users\\Zakarya\\AndroidStudioProject\\StoreDZ\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_view_new_password.xml.flat",
         "source": "C:\\Users\\Zakarya\\AndroidStudioProject\\StoreDZ\\app\\src\\main\\res\\layout\\custom_view_new_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zakarya\\AndroidStudioProject\\StoreDZ\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_navigation_item_text_color.xml.flat",
+        "source": "C:\\Users\\Zakarya\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.2.0-alpha06.aar\\7428bb65512d8a3ad3ff141f257ddc83\\res\\color\\mtrl_navigation_item_text_color.xml"
     },
     {
         "merged": "C:\\Users\\Zakarya\\AndroidStudioProject\\StoreDZ\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
@@ -2221,7 +2221,7 @@
     },
     {
         "merged": "C:\\Users\\Zakarya\\AndroidStudioProject\\StoreDZ\\app\\build\\intermediates\\res\\merged\\debug\\xml_nav_states.xml.flat",
-        "source": "C:\\Users\\Zakarya\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-material-1.2.5.aar\\7d65b64a33c34324111a85fb43d3622e\\res\\xml\\nav_states.xml"
+        "source": "C:\\Users\\Zakarya\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-material-1.2.5.aar\\130988dfc36e65b7c837982b53cb381d\\res\\xml\\nav_states.xml"
     },
     {
         "merged": "C:\\Users\\Zakarya\\AndroidStudioProject\\StoreDZ\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_hint_foreground_material_light.xml.flat",

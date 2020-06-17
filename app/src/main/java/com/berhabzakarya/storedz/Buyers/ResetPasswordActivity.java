@@ -50,7 +50,6 @@ public class ResetPasswordActivity extends AppCompatActivity {
                     checkPhone(textPhoneNumber);
                 }
 
-
             }
         });
     }

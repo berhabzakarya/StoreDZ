@@ -4,7 +4,7 @@ ADDED from C:\Users\Zakarya\AndroidStudioProject\StoreDZ\app\src\main\AndroidMan
 INJECTED from C:\Users\Zakarya\AndroidStudioProject\StoreDZ\app\src\main\AndroidManifest.xml:2:1-56:12
 INJECTED from C:\Users\Zakarya\AndroidStudioProject\StoreDZ\app\src\main\AndroidManifest.xml:2:1-56:12
 INJECTED from C:\Users\Zakarya\AndroidStudioProject\StoreDZ\app\src\main\AndroidManifest.xml:2:1-56:12
-MERGED from [com.github.rey5137:material:1.2.5] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-material-1.2.5.aar\7d65b64a33c34324111a85fb43d3622e\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.rey5137:material:1.2.5] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-material-1.2.5.aar\130988dfc36e65b7c837982b53cb381d\AndroidManifest.xml:2:1-11:12
 MERGED from [com.cepheuen.elegant-number-button:lib:1.0.2] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\lib-1.0.2.aar\1ee1ad5d23181f120ade3746016916b4\AndroidManifest.xml:2:1-19:12
 MERGED from [com.google.android.material:material:1.2.0-alpha06] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\material-1.2.0-alpha06.aar\7428bb65512d8a3ad3ff141f257ddc83\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta5] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-beta5.aar\002787dcb558fcc29eb653446a58df65\AndroidManifest.xml:2:1-11:12
@@ -13,11 +13,11 @@ MERGED from [androidx.appcompat:appcompat:1.2.0-beta01] C:\Users\Zakarya\.gradle
 MERGED from [io.paperdb:paperdb:2.7.1] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\paperdb-2.7.1.aar\4496130f7a08323d40b8ca3bf3f550e2\AndroidManifest.xml:2:1-13:12
 MERGED from [com.google.firebase:firebase-core:17.4.1] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\firebase-core-17.4.1.aar\ac768d5ed7252a218797bcd3e8dc8268\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.firebase:firebase-storage:19.1.1] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\firebase-storage-19.1.1.aar\6d7aa82b6b5978a0d242f21ec72c3da7\AndroidManifest.xml:15:1-39:12
-MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-circleimageview-2.2.0.aar\e277d0312fca3027e44c87ea7f4fe6cf\AndroidManifest.xml:2:1-11:12
-MERGED from [com.firebaseui:firebase-ui-database:3.2.2] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-firebase-ui-database-3.2.2.aar\f5532470a32ab6d3e44010222409fc5b\AndroidManifest.xml:2:1-13:12
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-circleimageview-2.2.0.aar\4d8513e4d772a5bf9f7fe4546c7dbd8e\AndroidManifest.xml:2:1-11:12
+MERGED from [com.firebaseui:firebase-ui-database:3.2.2] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-firebase-ui-database-3.2.2.aar\45540a29ee633b26a58d6458480d9ace\AndroidManifest.xml:2:1-13:12
 MERGED from [com.google.firebase:firebase-database:19.3.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\firebase-database-19.3.0.aar\e009c3d69d3ff1a7d89cd39e9483cbea\AndroidManifest.xml:15:1-38:12
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\72ec6aefb749fdb9ad1af18a7d3c1828\AndroidManifest.xml:17:1-22:12
-MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-picasso-2.71828.aar\b078f459ad3e072c76bd2ab2fa5d4414\AndroidManifest.xml:2:1-14:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-picasso-2.71828.aar\4fea32eae0c8c7e16372acf3c2a2513e\AndroidManifest.xml:2:1-14:12
 MERGED from [com.google.firebase:firebase-auth:19.3.1] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\firebase-auth-19.3.1.aar\0cd7c6d129691ebc60d3f1ffc6c9ba13\AndroidManifest.xml:17:1-42:12
 MERGED from [androidx.appcompat:appcompat-resources:1.2.0-beta01] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\appcompat-resources-1.2.0-beta01.aar\dbeeff1120a38037bfd71473e22176c2\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.1.0.aar\691e7a81649b7e2725c47801131e32e2\AndroidManifest.xml:17:1-24:12
@@ -29,8 +29,8 @@ MERGED from [com.google.android.gms:play-services-measurement-api:17.4.1] C:\Use
 MERGED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\firebase-iid-20.1.5.aar\f0e9fbee7de36405310e2bf543b64d44\AndroidManifest.xml:17:1-47:12
 MERGED from [com.google.firebase:firebase-installations:16.2.1] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\firebase-installations-16.2.1.aar\8bcd35a20c70bf4c5d9b442397d860bd\AndroidManifest.xml:2:1-23:12
 MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-19.0.0.aar\fd5ff08f32547ded6fa9ed3a050bb31d\AndroidManifest.xml:2:1-10:12
-MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-firebase-common-19.3.0.aar\6552566874e07649f5a166ce23475039\AndroidManifest.xml:15:1-39:12
-MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-firebase-components-16.0.0.aar\3e3c11f1697386d31a66a26311e003e7\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-firebase-common-19.3.0.aar\ce9ebd44c86895df1a9ff52f97d971fc\AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-firebase-components-16.0.0.aar\041717245cac8fa68c11ea8c90900dfe\AndroidManifest.xml:15:1-23:12
 MERGED from [com.google.android.gms:play-services-measurement:17.4.1] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.4.1.aar\48c4f2ba98b6d137704a98b484f2dacf\AndroidManifest.xml:17:1-46:12
 MERGED from [com.google.android.gms:play-services-measurement-sdk:17.4.1] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-17.4.1.aar\9e3af9d0518e49c3336936dfe7024f6c\AndroidManifest.xml:17:1-25:12
 MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.1] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-17.4.1.aar\daa7123d295c716507eb84ab2f38a726\AndroidManifest.xml:17:1-31:12
@@ -48,7 +48,7 @@ MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.1] C:
 MERGED from [com.google.android.gms:play-services-measurement-base:17.4.1] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-17.4.1.aar\603cb41ffc0db2943a987705e4aff858\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-18.0.0.aar\eff706b6e821eb9fbba84657a8ea48ac\AndroidManifest.xml:17:1-25:12
 MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-17.0.0.aar\b30679ad3ef54c2cb3b6710f4a760152\AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\69c5a649790957805d6c22c414ee6a29\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\2a62633e979c0f7ef9f23861c469f438\AndroidManifest.xml:17:1-28:12
 MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0.aar\1fab8f22fe0dea92a594ff8849528d85\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\6edf520c2a4a85fe678806eca48821a8\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\recyclerview-1.1.0.aar\ecdabf080a36dbbe4dfb160b19948c14\AndroidManifest.xml:17:1-24:12
@@ -72,7 +72,7 @@ MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Zakarya\.gradle\cach
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\6be49c8ff67dc3711401aa76c0cec2d4\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\exifinterface-1.0.0.aar\3d79ab535e3c11557227f5ce99c5ab55\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\663a8c640b71afa8544131823a0dc5b3\AndroidManifest.xml:17:1-27:12
-MERGED from [com.firebaseui:firebase-ui-common:3.2.2] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-firebase-ui-common-3.2.2.aar\b99aabd5174b770542b1a29f97a98f2d\AndroidManifest.xml:2:1-12:12
+MERGED from [com.firebaseui:firebase-ui-common:3.2.2] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-firebase-ui-common-3.2.2.aar\c2c8fbf63376ad4d231f441efadd2324\AndroidManifest.xml:2:1-12:12
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.1.0.aar\82f9156777d40dfd0c9f8095ba2e482f\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0.aar\63b13d3ac1f061edd80bb62ce389e0e1\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\annotation-experimental-1.0.0.aar\5d9787df42c6b7b3899c27e25ba2f4ec\AndroidManifest.xml:17:1-24:12
@@ -115,12 +115,12 @@ MERGED from [com.google.firebase:firebase-core:17.4.1] C:\Users\Zakarya\.gradle\
 MERGED from [com.google.firebase:firebase-core:17.4.1] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\firebase-core-17.4.1.aar\ac768d5ed7252a218797bcd3e8dc8268\AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-storage:19.1.1] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\firebase-storage-19.1.1.aar\6d7aa82b6b5978a0d242f21ec72c3da7\AndroidManifest.xml:29:5-37:19
 MERGED from [com.google.firebase:firebase-storage:19.1.1] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\firebase-storage-19.1.1.aar\6d7aa82b6b5978a0d242f21ec72c3da7\AndroidManifest.xml:29:5-37:19
-MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-circleimageview-2.2.0.aar\e277d0312fca3027e44c87ea7f4fe6cf\AndroidManifest.xml:9:5-20
-MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-circleimageview-2.2.0.aar\e277d0312fca3027e44c87ea7f4fe6cf\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-circleimageview-2.2.0.aar\4d8513e4d772a5bf9f7fe4546c7dbd8e\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-circleimageview-2.2.0.aar\4d8513e4d772a5bf9f7fe4546c7dbd8e\AndroidManifest.xml:9:5-20
 MERGED from [com.google.firebase:firebase-database:19.3.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\firebase-database-19.3.0.aar\e009c3d69d3ff1a7d89cd39e9483cbea\AndroidManifest.xml:28:5-36:19
 MERGED from [com.google.firebase:firebase-database:19.3.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\firebase-database-19.3.0.aar\e009c3d69d3ff1a7d89cd39e9483cbea\AndroidManifest.xml:28:5-36:19
-MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-picasso-2.71828.aar\b078f459ad3e072c76bd2ab2fa5d4414\AndroidManifest.xml:7:5-12:19
-MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-picasso-2.71828.aar\b078f459ad3e072c76bd2ab2fa5d4414\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-picasso-2.71828.aar\4fea32eae0c8c7e16372acf3c2a2513e\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-picasso-2.71828.aar\4fea32eae0c8c7e16372acf3c2a2513e\AndroidManifest.xml:7:5-12:19
 MERGED from [com.google.firebase:firebase-auth:19.3.1] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\firebase-auth-19.3.1.aar\0cd7c6d129691ebc60d3f1ffc6c9ba13\AndroidManifest.xml:23:5-40:19
 MERGED from [com.google.firebase:firebase-auth:19.3.1] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\firebase-auth-19.3.1.aar\0cd7c6d129691ebc60d3f1ffc6c9ba13\AndroidManifest.xml:23:5-40:19
 MERGED from [com.google.firebase:firebase-analytics:17.4.1] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\firebase-analytics-17.4.1.aar\29f9ff05c82731690435acf67f19f621\AndroidManifest.xml:7:5-20
@@ -133,8 +133,8 @@ MERGED from [com.google.firebase:firebase-installations:16.2.1] C:\Users\Zakarya
 MERGED from [com.google.firebase:firebase-installations:16.2.1] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\firebase-installations-16.2.1.aar\8bcd35a20c70bf4c5d9b442397d860bd\AndroidManifest.xml:13:5-21:19
 MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-19.0.0.aar\fd5ff08f32547ded6fa9ed3a050bb31d\AndroidManifest.xml:7:5-8:19
 MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-19.0.0.aar\fd5ff08f32547ded6fa9ed3a050bb31d\AndroidManifest.xml:7:5-8:19
-MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-firebase-common-19.3.0.aar\6552566874e07649f5a166ce23475039\AndroidManifest.xml:25:5-37:19
-MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-firebase-common-19.3.0.aar\6552566874e07649f5a166ce23475039\AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-firebase-common-19.3.0.aar\ce9ebd44c86895df1a9ff52f97d971fc\AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-firebase-common-19.3.0.aar\ce9ebd44c86895df1a9ff52f97d971fc\AndroidManifest.xml:25:5-37:19
 MERGED from [com.google.android.gms:play-services-measurement:17.4.1] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.4.1.aar\48c4f2ba98b6d137704a98b484f2dacf\AndroidManifest.xml:28:5-44:19
 MERGED from [com.google.android.gms:play-services-measurement:17.4.1] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.4.1.aar\48c4f2ba98b6d137704a98b484f2dacf\AndroidManifest.xml:28:5-44:19
 MERGED from [com.google.android.gms:play-services-measurement-sdk:17.4.1] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-17.4.1.aar\9e3af9d0518e49c3336936dfe7024f6c\AndroidManifest.xml:22:5-23:19
@@ -155,8 +155,8 @@ MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users
 MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-18.0.0.aar\eff706b6e821eb9fbba84657a8ea48ac\AndroidManifest.xml:22:5-23:19
 MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-17.0.0.aar\b30679ad3ef54c2cb3b6710f4a760152\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-17.0.0.aar\b30679ad3ef54c2cb3b6710f4a760152\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\69c5a649790957805d6c22c414ee6a29\AndroidManifest.xml:22:5-26:19
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\69c5a649790957805d6c22c414ee6a29\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\2a62633e979c0f7ef9f23861c469f438\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\2a62633e979c0f7ef9f23861c469f438\AndroidManifest.xml:22:5-26:19
 MERGED from [androidx.core:core:1.3.0-beta01] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\core-1.3.0-beta01.aar\72a409a198a04dea5cc61a99606067e0\AndroidManifest.xml:24:5-89
 MERGED from [androidx.core:core:1.3.0-beta01] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\core-1.3.0-beta01.aar\72a409a198a04dea5cc61a99606067e0\AndroidManifest.xml:24:5-89
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\663a8c640b71afa8544131823a0dc5b3\AndroidManifest.xml:24:5-25:19
@@ -289,8 +289,8 @@ uses-sdk
 INJECTED from C:\Users\Zakarya\AndroidStudioProject\StoreDZ\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Zakarya\AndroidStudioProject\StoreDZ\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\Zakarya\AndroidStudioProject\StoreDZ\app\src\main\AndroidManifest.xml
-MERGED from [com.github.rey5137:material:1.2.5] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-material-1.2.5.aar\7d65b64a33c34324111a85fb43d3622e\AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.rey5137:material:1.2.5] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-material-1.2.5.aar\7d65b64a33c34324111a85fb43d3622e\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.rey5137:material:1.2.5] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-material-1.2.5.aar\130988dfc36e65b7c837982b53cb381d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.rey5137:material:1.2.5] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-material-1.2.5.aar\130988dfc36e65b7c837982b53cb381d\AndroidManifest.xml:7:5-9:41
 MERGED from [com.cepheuen.elegant-number-button:lib:1.0.2] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\lib-1.0.2.aar\1ee1ad5d23181f120ade3746016916b4\AndroidManifest.xml:7:5-9:41
 MERGED from [com.cepheuen.elegant-number-button:lib:1.0.2] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\lib-1.0.2.aar\1ee1ad5d23181f120ade3746016916b4\AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.android.material:material:1.2.0-alpha06] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\material-1.2.0-alpha06.aar\7428bb65512d8a3ad3ff141f257ddc83\AndroidManifest.xml:20:5-44
@@ -307,16 +307,16 @@ MERGED from [com.google.firebase:firebase-core:17.4.1] C:\Users\Zakarya\.gradle\
 MERGED from [com.google.firebase:firebase-core:17.4.1] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\firebase-core-17.4.1.aar\ac768d5ed7252a218797bcd3e8dc8268\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-storage:19.1.1] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\firebase-storage-19.1.1.aar\6d7aa82b6b5978a0d242f21ec72c3da7\AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.firebase:firebase-storage:19.1.1] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\firebase-storage-19.1.1.aar\6d7aa82b6b5978a0d242f21ec72c3da7\AndroidManifest.xml:20:5-22:41
-MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-circleimageview-2.2.0.aar\e277d0312fca3027e44c87ea7f4fe6cf\AndroidManifest.xml:5:5-7:41
-MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-circleimageview-2.2.0.aar\e277d0312fca3027e44c87ea7f4fe6cf\AndroidManifest.xml:5:5-7:41
-MERGED from [com.firebaseui:firebase-ui-database:3.2.2] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-firebase-ui-database-3.2.2.aar\f5532470a32ab6d3e44010222409fc5b\AndroidManifest.xml:7:5-9:41
-MERGED from [com.firebaseui:firebase-ui-database:3.2.2] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-firebase-ui-database-3.2.2.aar\f5532470a32ab6d3e44010222409fc5b\AndroidManifest.xml:7:5-9:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-circleimageview-2.2.0.aar\4d8513e4d772a5bf9f7fe4546c7dbd8e\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-circleimageview-2.2.0.aar\4d8513e4d772a5bf9f7fe4546c7dbd8e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.firebaseui:firebase-ui-database:3.2.2] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-firebase-ui-database-3.2.2.aar\45540a29ee633b26a58d6458480d9ace\AndroidManifest.xml:7:5-9:41
+MERGED from [com.firebaseui:firebase-ui-database:3.2.2] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-firebase-ui-database-3.2.2.aar\45540a29ee633b26a58d6458480d9ace\AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.firebase:firebase-database:19.3.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\firebase-database-19.3.0.aar\e009c3d69d3ff1a7d89cd39e9483cbea\AndroidManifest.xml:19:5-21:41
 MERGED from [com.google.firebase:firebase-database:19.3.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\firebase-database-19.3.0.aar\e009c3d69d3ff1a7d89cd39e9483cbea\AndroidManifest.xml:19:5-21:41
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\72ec6aefb749fdb9ad1af18a7d3c1828\AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\72ec6aefb749fdb9ad1af18a7d3c1828\AndroidManifest.xml:20:5-44
-MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-picasso-2.71828.aar\b078f459ad3e072c76bd2ab2fa5d4414\AndroidManifest.xml:5:5-44
-MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-picasso-2.71828.aar\b078f459ad3e072c76bd2ab2fa5d4414\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-picasso-2.71828.aar\4fea32eae0c8c7e16372acf3c2a2513e\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-picasso-2.71828.aar\4fea32eae0c8c7e16372acf3c2a2513e\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-auth:19.3.1] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\firebase-auth-19.3.1.aar\0cd7c6d129691ebc60d3f1ffc6c9ba13\AndroidManifest.xml:21:5-44
 MERGED from [com.google.firebase:firebase-auth:19.3.1] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\firebase-auth-19.3.1.aar\0cd7c6d129691ebc60d3f1ffc6c9ba13\AndroidManifest.xml:21:5-44
 MERGED from [androidx.appcompat:appcompat-resources:1.2.0-beta01] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\appcompat-resources-1.2.0-beta01.aar\dbeeff1120a38037bfd71473e22176c2\AndroidManifest.xml:20:5-22:41
@@ -339,10 +339,10 @@ MERGED from [com.google.firebase:firebase-installations:16.2.1] C:\Users\Zakarya
 MERGED from [com.google.firebase:firebase-installations:16.2.1] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\firebase-installations-16.2.1.aar\8bcd35a20c70bf4c5d9b442397d860bd\AndroidManifest.xml:6:5-8:41
 MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-19.0.0.aar\fd5ff08f32547ded6fa9ed3a050bb31d\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-19.0.0.aar\fd5ff08f32547ded6fa9ed3a050bb31d\AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-firebase-common-19.3.0.aar\6552566874e07649f5a166ce23475039\AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-firebase-common-19.3.0.aar\6552566874e07649f5a166ce23475039\AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-firebase-components-16.0.0.aar\3e3c11f1697386d31a66a26311e003e7\AndroidManifest.xml:19:5-21:41
-MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-firebase-components-16.0.0.aar\3e3c11f1697386d31a66a26311e003e7\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-firebase-common-19.3.0.aar\ce9ebd44c86895df1a9ff52f97d971fc\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-firebase-common-19.3.0.aar\ce9ebd44c86895df1a9ff52f97d971fc\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-firebase-components-16.0.0.aar\041717245cac8fa68c11ea8c90900dfe\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-firebase-components-16.0.0.aar\041717245cac8fa68c11ea8c90900dfe\AndroidManifest.xml:19:5-21:41
 MERGED from [com.google.android.gms:play-services-measurement:17.4.1] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.4.1.aar\48c4f2ba98b6d137704a98b484f2dacf\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-measurement:17.4.1] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.4.1.aar\48c4f2ba98b6d137704a98b484f2dacf\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-measurement-sdk:17.4.1] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-17.4.1.aar\9e3af9d0518e49c3336936dfe7024f6c\AndroidManifest.xml:20:5-44
@@ -377,8 +377,8 @@ MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users
 MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-18.0.0.aar\eff706b6e821eb9fbba84657a8ea48ac\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-17.0.0.aar\b30679ad3ef54c2cb3b6710f4a760152\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-17.0.0.aar\b30679ad3ef54c2cb3b6710f4a760152\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\69c5a649790957805d6c22c414ee6a29\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\69c5a649790957805d6c22c414ee6a29\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\2a62633e979c0f7ef9f23861c469f438\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\2a62633e979c0f7ef9f23861c469f438\AndroidManifest.xml:20:5-44
 MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0.aar\1fab8f22fe0dea92a594ff8849528d85\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0.aar\1fab8f22fe0dea92a594ff8849528d85\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\6edf520c2a4a85fe678806eca48821a8\AndroidManifest.xml:20:5-44
@@ -425,8 +425,8 @@ MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Zakarya\.gradl
 MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\exifinterface-1.0.0.aar\3d79ab535e3c11557227f5ce99c5ab55\AndroidManifest.xml:20:5-44
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\663a8c640b71afa8544131823a0dc5b3\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\663a8c640b71afa8544131823a0dc5b3\AndroidManifest.xml:20:5-22:41
-MERGED from [com.firebaseui:firebase-ui-common:3.2.2] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-firebase-ui-common-3.2.2.aar\b99aabd5174b770542b1a29f97a98f2d\AndroidManifest.xml:8:5-10:41
-MERGED from [com.firebaseui:firebase-ui-common:3.2.2] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-firebase-ui-common-3.2.2.aar\b99aabd5174b770542b1a29f97a98f2d\AndroidManifest.xml:8:5-10:41
+MERGED from [com.firebaseui:firebase-ui-common:3.2.2] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-firebase-ui-common-3.2.2.aar\c2c8fbf63376ad4d231f441efadd2324\AndroidManifest.xml:8:5-10:41
+MERGED from [com.firebaseui:firebase-ui-common:3.2.2] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-firebase-ui-common-3.2.2.aar\c2c8fbf63376ad4d231f441efadd2324\AndroidManifest.xml:8:5-10:41
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.1.0.aar\82f9156777d40dfd0c9f8095ba2e482f\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.1.0.aar\82f9156777d40dfd0c9f8095ba2e482f\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0.aar\63b13d3ac1f061edd80bb62ce389e0e1\AndroidManifest.xml:20:5-44
@@ -463,8 +463,8 @@ MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.1] C:
 		ADDED from [com.google.firebase:firebase-storage:19.1.1] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\firebase-storage-19.1.1.aar\6d7aa82b6b5978a0d242f21ec72c3da7\AndroidManifest.xml:26:22-76
 uses-permission#android.permission.INTERNET
 ADDED from [com.google.firebase:firebase-storage:19.1.1] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\firebase-storage-19.1.1.aar\6d7aa82b6b5978a0d242f21ec72c3da7\AndroidManifest.xml:27:5-67
-MERGED from [com.firebaseui:firebase-ui-database:3.2.2] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-firebase-ui-database-3.2.2.aar\f5532470a32ab6d3e44010222409fc5b\AndroidManifest.xml:11:5-67
-MERGED from [com.firebaseui:firebase-ui-database:3.2.2] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-firebase-ui-database-3.2.2.aar\f5532470a32ab6d3e44010222409fc5b\AndroidManifest.xml:11:5-67
+MERGED from [com.firebaseui:firebase-ui-database:3.2.2] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-firebase-ui-database-3.2.2.aar\45540a29ee633b26a58d6458480d9ace\AndroidManifest.xml:11:5-67
+MERGED from [com.firebaseui:firebase-ui-database:3.2.2] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-firebase-ui-database-3.2.2.aar\45540a29ee633b26a58d6458480d9ace\AndroidManifest.xml:11:5-67
 MERGED from [com.google.firebase:firebase-database:19.3.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\firebase-database-19.3.0.aar\e009c3d69d3ff1a7d89cd39e9483cbea\AndroidManifest.xml:26:5-67
 MERGED from [com.google.firebase:firebase-database:19.3.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\firebase-database-19.3.0.aar\e009c3d69d3ff1a7d89cd39e9483cbea\AndroidManifest.xml:26:5-67
 MERGED from [com.google.android.gms:play-services-measurement-api:17.4.1] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-17.4.1.aar\5ac6e205f4faf6928c61be0bfd8d2fa6\AndroidManifest.xml:22:5-67
@@ -493,14 +493,14 @@ MERGED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\Zakarya\.gradle\c
 MERGED from [com.google.firebase:firebase-iid:20.1.5] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\firebase-iid-20.1.5.aar\f0e9fbee7de36405310e2bf543b64d44\AndroidManifest.xml:29:9-35:19
 MERGED from [com.google.firebase:firebase-installations:16.2.1] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\firebase-installations-16.2.1.aar\8bcd35a20c70bf4c5d9b442397d860bd\AndroidManifest.xml:14:9-20:19
 MERGED from [com.google.firebase:firebase-installations:16.2.1] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\firebase-installations-16.2.1.aar\8bcd35a20c70bf4c5d9b442397d860bd\AndroidManifest.xml:14:9-20:19
-MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-firebase-common-19.3.0.aar\6552566874e07649f5a166ce23475039\AndroidManifest.xml:32:9-36:35
-MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-firebase-common-19.3.0.aar\6552566874e07649f5a166ce23475039\AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-firebase-common-19.3.0.aar\ce9ebd44c86895df1a9ff52f97d971fc\AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-firebase-common-19.3.0.aar\ce9ebd44c86895df1a9ff52f97d971fc\AndroidManifest.xml:32:9-36:35
 	android:exported
 		ADDED from [com.google.firebase:firebase-storage:19.1.1] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\firebase-storage-19.1.1.aar\6d7aa82b6b5978a0d242f21ec72c3da7\AndroidManifest.xml:32:13-37
 	tools:targetApi
-		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-firebase-common-19.3.0.aar\6552566874e07649f5a166ce23475039\AndroidManifest.xml:36:13-32
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-firebase-common-19.3.0.aar\ce9ebd44c86895df1a9ff52f97d971fc\AndroidManifest.xml:36:13-32
 	android:directBootAware
-		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-firebase-common-19.3.0.aar\6552566874e07649f5a166ce23475039\AndroidManifest.xml:34:13-43
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-firebase-common-19.3.0.aar\ce9ebd44c86895df1a9ff52f97d971fc\AndroidManifest.xml:34:13-43
 	android:name
 		ADDED from [com.google.firebase:firebase-storage:19.1.1] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\firebase-storage-19.1.1.aar\6d7aa82b6b5978a0d242f21ec72c3da7\AndroidManifest.xml:31:13-84
 meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
@@ -516,13 +516,13 @@ ADDED from [com.google.firebase:firebase-database:19.3.0] C:\Users\Zakarya\.grad
 	android:name
 		ADDED from [com.google.firebase:firebase-database:19.3.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\firebase-database-19.3.0.aar\e009c3d69d3ff1a7d89cd39e9483cbea\AndroidManifest.xml:33:17-109
 provider#com.squareup.picasso.PicassoProvider
-ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-picasso-2.71828.aar\b078f459ad3e072c76bd2ab2fa5d4414\AndroidManifest.xml:8:9-11:40
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-picasso-2.71828.aar\4fea32eae0c8c7e16372acf3c2a2513e\AndroidManifest.xml:8:9-11:40
 	android:authorities
-		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-picasso-2.71828.aar\b078f459ad3e072c76bd2ab2fa5d4414\AndroidManifest.xml:10:13-72
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-picasso-2.71828.aar\4fea32eae0c8c7e16372acf3c2a2513e\AndroidManifest.xml:10:13-72
 	android:exported
-		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-picasso-2.71828.aar\b078f459ad3e072c76bd2ab2fa5d4414\AndroidManifest.xml:11:13-37
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-picasso-2.71828.aar\4fea32eae0c8c7e16372acf3c2a2513e\AndroidManifest.xml:11:13-37
 	android:name
-		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-picasso-2.71828.aar\b078f459ad3e072c76bd2ab2fa5d4414\AndroidManifest.xml:9:13-64
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-picasso-2.71828.aar\4fea32eae0c8c7e16372acf3c2a2513e\AndroidManifest.xml:9:13-64
 activity#com.google.firebase.auth.internal.FederatedSignInActivity
 ADDED from [com.google.firebase:firebase-auth:19.3.1] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\firebase-auth-19.3.1.aar\0cd7c6d129691ebc60d3f1ffc6c9ba13\AndroidManifest.xml:24:9-31:50
 	android:excludeFromRecents
@@ -594,15 +594,15 @@ ADDED from [com.google.firebase:firebase-installations:16.2.1] C:\Users\Zakarya\
 	android:name
 		ADDED from [com.google.firebase:firebase-installations:16.2.1] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\firebase-installations-16.2.1.aar\8bcd35a20c70bf4c5d9b442397d860bd\AndroidManifest.xml:18:17-127
 provider#com.google.firebase.provider.FirebaseInitProvider
-ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-firebase-common-19.3.0.aar\6552566874e07649f5a166ce23475039\AndroidManifest.xml:26:9-30:39
+ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-firebase-common-19.3.0.aar\ce9ebd44c86895df1a9ff52f97d971fc\AndroidManifest.xml:26:9-30:39
 	android:authorities
-		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-firebase-common-19.3.0.aar\6552566874e07649f5a166ce23475039\AndroidManifest.xml:28:13-72
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-firebase-common-19.3.0.aar\ce9ebd44c86895df1a9ff52f97d971fc\AndroidManifest.xml:28:13-72
 	android:exported
-		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-firebase-common-19.3.0.aar\6552566874e07649f5a166ce23475039\AndroidManifest.xml:29:13-37
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-firebase-common-19.3.0.aar\ce9ebd44c86895df1a9ff52f97d971fc\AndroidManifest.xml:29:13-37
 	android:initOrder
-		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-firebase-common-19.3.0.aar\6552566874e07649f5a166ce23475039\AndroidManifest.xml:30:13-36
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-firebase-common-19.3.0.aar\ce9ebd44c86895df1a9ff52f97d971fc\AndroidManifest.xml:30:13-36
 	android:name
-		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-firebase-common-19.3.0.aar\6552566874e07649f5a166ce23475039\AndroidManifest.xml:27:13-77
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-firebase-common-19.3.0.aar\ce9ebd44c86895df1a9ff52f97d971fc\AndroidManifest.xml:27:13-77
 uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
 ADDED from [com.google.android.gms:play-services-measurement:17.4.1] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.4.1.aar\48c4f2ba98b6d137704a98b484f2dacf\AndroidManifest.xml:26:5-110
 MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.1] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-17.4.1.aar\daa7123d295c716507eb84ab2f38a726\AndroidManifest.xml:26:5-110
@@ -644,8 +644,8 @@ ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Zakarya\.
 	android:name
 		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\play-services-base-17.1.0.aar\e2356d21146d6f81b86da7e31a63379c\AndroidManifest.xml:24:13-79
 meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\69c5a649790957805d6c22c414ee6a29\AndroidManifest.xml:23:9-25:69
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\2a62633e979c0f7ef9f23861c469f438\AndroidManifest.xml:23:9-25:69
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\69c5a649790957805d6c22c414ee6a29\AndroidManifest.xml:25:13-66
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\2a62633e979c0f7ef9f23861c469f438\AndroidManifest.xml:25:13-66
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\69c5a649790957805d6c22c414ee6a29\AndroidManifest.xml:24:13-58
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Zakarya\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\2a62633e979c0f7ef9f23861c469f438\AndroidManifest.xml:24:13-58
